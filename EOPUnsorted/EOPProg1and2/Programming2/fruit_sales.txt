@@ -1,0 +1,5 @@
+watermelon 18
+apple,      14
+orange,     8
+banana,     8
+guava,      8
